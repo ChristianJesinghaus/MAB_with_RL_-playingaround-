@@ -1,0 +1,26 @@
+# Virtuelle Umgebung
+rlenv/
+
+# Python Bytecode-Dateien
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode-spezifische Dateien
+.vscode/
+
+# Log-Dateien
+*.log
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Optional: Andere Entwicklungsumgebungsdateien
+.idea/
+*.swp
+*.swo
